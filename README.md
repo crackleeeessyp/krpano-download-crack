@@ -1,7 +1,7 @@
 ## 介绍
 
 ### 先上下载链接： 
-解压后双击KDCrackRealease.exe, 其他功能大家可以自己下载： 
+解压后双击KDCrackRealease.exe， 下方显示破解载入成功则说明成功了
 
 https://wwz.lanzoue.com/iq9cD0h7nvnc   密码6rrw
 
@@ -13,7 +13,16 @@ https://wwz.lanzoue.com/iq9cD0h7nvnc   密码6rrw
 ![image](https://user-images.githubusercontent.com/86238500/204482407-9efac6cf-4fc0-4570-ab7b-674c312e22a0.png)
 
 
-放一个完美无限制破解版的截图， 去除了烦人的广告和一些使用上的限制，可以在任意台机子上使用，且用且珍惜
+### 主要修改
+- 去除了烦人的广告和一些使用上的限制 
+
+- 该软件会大量搜集用户的隐私电脑的信息，包括一些安装软件信息（你电脑里是否装了AutoDesk，Visual Studio都会采集，非常恶心，如下图所示），还有硬件CPU，内存信息等，然后全部上传到服务器里，不清楚会不会被倒卖给广告上。这里破解后把后台服务器给干掉了，指向了127.0.0.1，这样就不用担心信息泄露了
+
+![image](https://user-images.githubusercontent.com/86238500/204484745-ba7cef24-ac3c-4ad5-a8c6-f0183fc03433.png)
+
+- 去除了机器的限制
+
+### 最终破解效果
 ![](./1.PNG)
 
 欢迎一些破解爱好者讨论，如果想要讨论破解方案可以联系QQ
