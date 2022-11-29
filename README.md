@@ -5,7 +5,7 @@
 
 https://wwz.lanzoue.com/iq9cD0h7nvnc   密码6rrw
 
-也可以在Github Release Page里面下载： https://github.com/crackleeeessyp/krpano-download-crack
+也可以在Github Release Page里面下载： https://github.com/crackleeeessyp/krpano-download-crack/releases/tag/1.0.0
 
 
 ### 背景介绍
