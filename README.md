@@ -18,7 +18,7 @@ https://wwz.lanzoue.com/iq9cD0h7nvnc   密码6rrw
 ### 主要修改
 - 去除了烦人的广告和一些使用上的限制 
 
-- 该软件会大量搜集用户的隐私电脑的信息，包括一些安装软件信息（你电脑里是否装了AutoDesk，Visual Studio都会采集，非常恶心，如下图所示），还有硬件CPU，内存信息等，然后全部上传到远程服务器 http://kudianapp.com/api/api_kd.php ，不清楚会不会被倒卖给广告商。这里破解后把后台服务器给干掉了，强制指向本地127.0.0.1，这样隐私信息就不会被上传到远程服务器了
+- 该软件会大量搜集用户的隐私电脑的信息，包括一些安装软件信息（你电脑里是否装了AutoDesk，Visual Studio都会采集，非常恶心，如下图所示），还有硬件CPU，内存, 电脑的用户名等信息，然后全部上传到远程服务器 http://kudianapp.com/api/api_kd.php ，不清楚会不会被倒卖给广告商。这里破解后把后台服务器给干掉了，强制指向本地127.0.0.1，这样隐私信息就不会被上传到远程服务器了
 
 ![image](https://user-images.githubusercontent.com/86238500/204484745-ba7cef24-ac3c-4ad5-a8c6-f0183fc03433.png)
 
